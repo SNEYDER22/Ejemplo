@@ -1,0 +1,12 @@
+{
+  "name": "mi-web-app",
+  "version": "1.0.0",
+  "description": "Una aplicación web con figuras en movimiento que dicen 'Hola Mundo'",
+  "main": "src/js/main.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
